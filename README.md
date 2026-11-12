@@ -4,8 +4,6 @@
 
 🔗 **Live app:** (https://electricity-demand-forecasting-app.streamlit.app/)
 
-![App screenshot](presentation/app_screenshot.png)
-
 ## Results (untouched test set: 2017 → Aug 2018)
 
 | Model | MAPE % | RMSE (MW) |
