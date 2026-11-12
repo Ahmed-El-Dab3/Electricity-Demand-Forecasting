@@ -2,7 +2,7 @@
 
 > Grid operators lose money (and risk blackouts) when tomorrow's demand is forecast badly — this project predicts **hourly electricity demand (MW) day-ahead** and warns when demand will exceed grid capacity.
 
-🔗 **Live app:** `<paste your Streamlit Community Cloud link>`
+🔗 **Live app:** (https://electricity-demand-forecasting-app.streamlit.app/)
 
 ![App screenshot](presentation/app_screenshot.png)
 
